@@ -12,10 +12,10 @@ Open a command prompt.
 Navigate to the directory containing PA1.cpp.
 Compile the program using your preferred C++ compiler. For example, using g++:
 
-g++ -std=c++11 PA1.cpp -o PA1
+`g++ -std=c++11 PA1.cpp -o PA1`
 
 Execution:
 
 Run the compiled executable:
 
-./PA1
+`./PA1`
